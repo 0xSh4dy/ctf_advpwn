@@ -1,0 +1,9 @@
+Author: Faith
+
+Why do some people think browser exploitation == web?
+
+Once you get code execution, you can execute /chal/flagprinter to get the flag. No need to get a shell.
+
+V8 commit: 47054c840e26394dea0e36df47884202a15dd16d V8 version: 8.7.9 nc chal.duc.tf 30004
+
+Challenge files: https://storage.googleapis.com/files.duc.tf/uploads/pwn/is-this-pwn-or-web/challenge.tar.gz (sha256: e1c70edde66932ca3ee9285fe37c04254ae5a0e00b265c68fe93440bbe3256e8)
